@@ -1,0 +1,60 @@
+body{
+    background-image:url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/022/294/original/fall_background.jpeg?1638905016);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h1{
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Yeseva One', cursive;
+}
+
+.gilmore-girls{
+ border: 2px solid #573139;
+ background: #ddb791;
+ max-width: 600px;
+  align-self: center;
+  margin: 15px auto;
+  padding: 20px 45px;
+  border-radius: 10px;
+}
+
+
+  
+.find-out{
+    display:block;
+    margin: 0 auto;
+    background: #c05a21;
+    font-size: 18px;
+    padding: 10px 10px;
+    color: white;
+    border-radius: 6px;
+    box-shadow: 5px 5px 5px rgb(0 0 0 / 30%);
+    font-family: 'Yeseva One', cursive;
+}
+
+.column-left {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+
+ .column-right {
+    float: right;
+    width: 50%;
+    padding: 10px;
+}
+.signature{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Yeseva One';
+}
+
+.footer{
+    text-align: center;
+    font-size:10px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+}
+
